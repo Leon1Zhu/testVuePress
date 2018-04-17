@@ -12,7 +12,6 @@ module.exports = {
       ['/', '起步'],
       ['/example', '示例'],
       ['/api', 'API文档']
-
     ],
   }
 }
