@@ -4,11 +4,11 @@
 module.exports = {
   base: '/v-alien-upload/',
   title: 'Alien-upload',
-  description: 'vuepress搭建 vuepress教程',
+  description: '文件上传组件 vue文件上传 多文件上传',
   port:8888,
   themeConfig: {
     sidebar: [
-      ['/getStart', '起步'],
+      ['/', '起步'],
       ['/example', '示例'],
       ['/api', 'API文档']
     ]

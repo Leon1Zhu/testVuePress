@@ -1,5 +1,2 @@
----
-home: false
----
 
 # Hello VuePress
