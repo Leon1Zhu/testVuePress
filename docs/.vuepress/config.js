@@ -7,10 +7,11 @@ module.exports = {
   description: '文件上传组件 vue文件上传 多文件上传',
   port:8888,
   themeConfig: {
+    repo: 'ZhuLiangT/testVuePress',
     sidebar: [
       ['/', '起步'],
       ['/example', '示例'],
       ['/api', 'API文档']
-    ]
+    ],
   }
 }
