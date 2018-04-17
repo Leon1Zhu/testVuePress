@@ -1,16 +1,16 @@
 /**
- * Created by zhuliang on 2018/4/17.
+ * Created by zhuliang on 2018/4/17.lien-upload
  */
 module.exports = {
   base: '/v-alien-upload/',
-  title: 'Hello VuePress',
+  title: 'Alien-upload',
   description: 'vuepress搭建 vuepress教程',
   port:8888,
   themeConfig: {
     sidebar: [
-      '/aaa',
-      '/page-a',
-      ['/page-b', 'Explicit link text']
+      ['/getStart', '起步'],
+      ['/example', '示例'],
+      ['/api', 'API文档']
     ]
   }
 }
