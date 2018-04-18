@@ -9,9 +9,11 @@ module.exports = {
   themeConfig: {
     repo: 'ZhuLiangT/v-alien-upload',
     sidebar: [
-      ['/', '起步'],
-      ['/example', '示例'],
-      ['/api', 'API文档']
+      ['/', '介绍'],
+      ['/getstart/', '起步'],
+      ['/api/', 'API文档'],
+      ['/example/', '示例']
+
     ],
   }
 }
