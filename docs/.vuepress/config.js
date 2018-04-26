@@ -11,7 +11,8 @@ module.exports = {
     sidebar: [
       ['/', '介绍'],
       ['/getstart/', '起步'],
-      ['/api/', 'API文档'],
+      ['/api/', '属性'],
+      ['/function/', '方法'],
       ['/example/', '示例']
 
     ],
