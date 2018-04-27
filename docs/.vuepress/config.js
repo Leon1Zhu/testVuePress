@@ -10,10 +10,11 @@ module.exports = {
     repo: 'ZhuLiangT/v-alien-upload',
     sidebar: [
       ['/', '介绍'],
+      ['/example/', '示例'],
       ['/getstart/', '起步'],
       ['/api/', '属性'],
-      ['/function/', '方法'],
-      ['/example/', '示例']
+      ['/function/', '方法']
+
 
     ],
   }

@@ -14,3 +14,13 @@
  Vue.use(ValienUpload)
  
 ```
+
+### 按需加载
+
+```javascript
+ import ValienUpload from 'alienupload'
+ components:{
+      'alienUpload': ValienUpload.upload,
+   },
+ 
+```
