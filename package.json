@@ -15,7 +15,7 @@
     "vue": "^2.5.2"
   },
   "devDependencies": {
-    "alienupload": "^0.3.1",
+    "alienupload": "^0.3.3",
     "vuepress": "^0.7.0"
   },
   "engines": {
